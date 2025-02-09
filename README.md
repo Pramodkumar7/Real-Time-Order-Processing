@@ -1,7 +1,7 @@
 #  Real-Time-Order-Processing Project
 
 ## [1. Introduction](#introduction)
-This project implements a real-time data pipeline for processing orders and payments using Apache Kafka and Spark Structured Streaming. It enables seamless event-driven processing by capturing transactions as they occur, ensuring accurate and timely data updates.
+This project implements a real-time data pipeline for processing orders and payments using *Apache Kafka* and *Spark Structured Streaming*. It enables seamless event-driven processing by capturing transactions as they occur, ensuring accurate and timely data updates.
 
 The pipeline:<br>
 - Streams orders and payments data from Kafka topics.<br>
